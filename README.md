@@ -7,7 +7,7 @@ fork() example (problem 2b) - https://www.youtube.com/watch?v=hkBGAdrTyqQ&ab_cha
 fork()/IO example (problem 3) - NA <br>
 thread example (problem 4) - NA <br>
 network code example (problem 5) - NA <br>
-cache example (problem 6) - NA <br>
+cache example (problem 6) - https://www.youtube.com/watch?v=1qy0BVv-_0o&ab_channel=SamuelStanley <br>
 semaphore example (problem 7) - NA <br>
 mutex example (problem 8) - NA <br>
 thread example (problem 9) - NA <br>
