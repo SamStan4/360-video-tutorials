@@ -2,7 +2,7 @@
 ## Exam one review
 cache example - https://www.youtube.com/watch?v=MxES00W1yKw&ab_channel=SamuelStanley
 ## Exam two review
-fork() example (problem 2a) - NA
+fork() example (problem 2a) - https://www.youtube.com/watch?v=tLdEYnVL4nI&ab_channel=SamuelStanley
 fork() example (problem 2b) - NA
 fork()/IO example (problem 3) - NA
 thread example (problem 4) - NA
