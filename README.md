@@ -2,7 +2,7 @@
 ## Exam one review
 cache example - https://www.youtube.com/watch?v=MxES00W1yKw&ab_channel=SamuelStanley
 ## Exam two review
-kernel programming (problem 1) - you do it
+kernel programming (problem 1) - you do it <br>
 fork() example (problem 2a) - https://www.youtube.com/watch?v=tLdEYnVL4nI&ab_channel=SamuelStanley <br>
 fork() example (problem 2b) - https://www.youtube.com/watch?v=hkBGAdrTyqQ&ab_channel=SamuelStanley <br>
 fork()/IO example (problem 3) - https://www.youtube.com/watch?v=OKg1zPEWvCU&ab_channel=SamuelStanley <br>
