@@ -14,3 +14,5 @@
 <p1> thread example (problem 9) - NA </p1> <br>
 <p1> thread lock example (problem 10) - NA </p1> <br>
 <p1> meta thread example (problem 11) - NA </p1> <br>
+<h2>Other helpful videos</h2>
+<p1>virtual memory - https://www.youtube.com/watch?v=l7HoguhFVQ4&ab_channel=Udacity </p1> <br>
